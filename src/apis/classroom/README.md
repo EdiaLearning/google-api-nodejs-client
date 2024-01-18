@@ -2,7 +2,7 @@
 
 # classroom
 
-> Manages classes, rosters, and invitations in Google Classroom.
+> 
 
 ## Installation
 
